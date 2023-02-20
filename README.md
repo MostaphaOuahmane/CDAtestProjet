@@ -1,8 +1,9 @@
 Fonctionnalités
 
-    lister par mots clés
+    Lister les ouvrages par mots clés
     Lister mes emprunts
     Lister les exemplaires d'un ouvrage
+    Lister les ouvrages d'un auteur
 
 
 # lister par mot clés
